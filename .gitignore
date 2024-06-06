@@ -1,0 +1,44 @@
+.nfs*
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.pyd
+*.so
+*.dll
+*.egg-info/
+build/
+dist/
+wheels/
+logs/
+runs/
+
+# pytorch/python/numpy formats
+*.pth
+*.pkl
+*.npy
+*.ts
+*.out
+*.txt
+*.sh
+
+# onnx models
+*.onnx
+
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# editor settings
+.idea
+.vscode
+_darcs
+
+#folder
+dataseet/
+logs/
+runs/
