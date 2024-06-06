@@ -1,5 +1,5 @@
 # Learning to Maximize Mutual Information for Chain-of-Thought Distillation
-Code for paper [Learning to Maximize Mutual Information for Chain-of-Thought Distillation](https://arxiv.org/pdf/2403.03348) \
+Official PyTorch implementation of ACL2024 paper [Learning to Maximize Mutual Information for Chain-of-Thought Distillation](https://arxiv.org/pdf/2403.03348) \
 **TL;DR**: This paper formulates Chain-of-Thought (CoT) distillation with information bottleneck and introduces a variational method to estimate mutual information to improve CoT distillation performance.\ 
 The code is based on repo of [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://github.com/google-research/distilling-step-by-step)
 
