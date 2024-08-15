@@ -111,11 +111,24 @@ GOLD COT: The church choir singing to the masses does not necessarily mean that 
 ## Cite
 If you find this repository useful, please consider citing:
 ```bibtex
-@inproceedings{chen2024learning,
-  title={Learning to Maximize Mutual Information for Chain-of-Thought Distillation},
-  author={Chen, Xin and Huang, Hanxian and Gao, Yanjun and Wang, Yi and Zhao, Jishen and Ding, Ke},
-  booktitle = {Findings of the Association for Computational Linguistics: ACL 2024},
-  year={2024}
+@inproceedings{chen-etal-2024-learning-maximize,
+    title = "Learning to Maximize Mutual Information for Chain-of-Thought Distillation",
+    author = "Chen, Xin  and
+      Huang, Hanxian  and
+      Gao, Yanjun  and
+      Wang, Yi  and
+      Zhao, Jishen  and
+      Ding, Ke",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.409",
+    pages = "6857--6868",
 }
 ```
 
